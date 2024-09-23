@@ -1,0 +1,91 @@
+body{
+    opacity: 0.949;
+}
+.comment{
+    background-color: white;
+    margin-top: 20%;
+    padding: 5%;
+}
+.logo{
+    width:30%;
+    padding-top: 5%;
+}
+.logoSoc{
+    width:10%;
+    display: inline-block;
+}
+.logoFooter{
+    width:60%;
+}
+.social{
+    text-align: right;
+}
+.contactIcon{
+    text-align: center;
+    width:30%;
+}
+.contactdiv{
+    margin-left: 35%;
+    margin-top: 15%;
+    margin-bottom: 5%;
+
+}
+.dot{
+    color:#be393b;
+    font-size: 30px;
+    display: inline-block;
+}
+.formInfo{
+    
+    font-size: 22px;
+    line-height: 65px;
+    color: #d7d7d7;
+    font-weight: 500;
+    
+    
+}
+.form-control{
+    background-color:#37414e !important;
+    color: #d7d7d7 !important; 
+}
+.form-control::placeholder{
+    color: #d7d7d7 !important;
+}
+.commentForm{
+    padding: 10% !important;
+}
+.buttonclass{
+    background-color: #be393b !important;
+    border: none !important;
+    float: right !important;
+    margin-top: 1% !important;
+    padding: 1.5% !important;
+}
+.comments{
+    text-align: center;
+    font-size: 30px;
+}
+footer{
+    padding: 5%;
+}
+.form-group{
+    --tw-ring-color:red !important;
+}
+.nameCard{
+    background-color: #4b596b !important;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding: 2%;
+}
+.textCard{
+    text-align: center;
+    padding: 3%;
+    background-color: #e3e4e6;
+}
+.card-text{
+    padding-top: 5%;
+}
+.comments{
+    padding-bottom: 5%;
+}
